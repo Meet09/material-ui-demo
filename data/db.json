@@ -1,0 +1,70 @@
+{
+    "notes": [
+        {
+            "title": "Yoshi's birthday bash",
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "category": "reminders",
+            "id": 1
+        },
+        {
+            "title": "Complete my ninja training",
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+            "category": "work",
+            "id": 2
+        },
+        {
+            "title": "Order a pizza!",
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "category": "todos",
+            "id": 3
+        },
+        {
+            "title": "The Sundersan-Chakra of Lord Vishnu",
+            "details": "Sudarshana Chakra (Sanskrit:सुदर्शन चक्र, lit. disc of auspicious vision, IAST: sudarśana cakra) is a spinning, discus weapon, having 108 serrated edges used by the Hindu god Vishnu or Krishna. The Sudarshana Chakra is generally portrayed on the right rear hand of the four hands of Vishnu, who also holds a shankha (conch shell), a Gada (mace) and a padma (lotus). While in the Rigveda, the Chakra was Vishnu's symbol as the wheel of time and by the late period, the Sudarshana Chakra emerged as an ayudhapurusha (anthropomorphic form), as a fierce form of Vishnu, used for the destruction of demons. As an ayudhapurusha, the deity is known as Chakraperumal or Chakrathazhwar.",
+            "category": "work",
+            "id": 4
+        },
+        {
+            "title": "The Little Mermaid's Wishing Factory",
+            "details": "Aneri she playing a character in Anupama, She is one of best and my favourite role, for me she is bit like heart-touching when I see her on Tv, well Anupama is best Tv-show in current time duration",
+            "category": "work",
+            "id": 5
+        },
+        {
+            "title": "God of Architecture",
+            "details": "Vishwakarma or Vishvakarman (Sanskrit: विश्वकर्मा, romanized: Viśvakarmā, lit. 'all maker') is a craftsman deity and the divine architect of the gods in contemporary Hinduism. In the early texts, the craftsman deity was known as Tvastar and the word 'Vishvakarma' was originally used as an epithet for any powerful deity. However, in many later traditions, Vishvakarma became the name of the craftsman god.",
+            "category": "reminders",
+            "id": 7
+        },
+        {
+            "title": "Trishula",
+            "details": "Trishula (Sanskrit: त्रिशूल, IAST: triśūla) or trishul is a trident, a divine symbol, commonly used as one of the principal symbols in Sanatana Dharma.[1] In India and Thailand, the term also often refers to a short-handled weapon which may be mounted on a daṇḍa (Sanskrit: दण्ड, meaning 'staff'). Unlike the Okinawan sai, the trishula is often bladed. In Indonesian, trisula usually refers specifically to a long-handled trident while the diminutive version is more commonly known as a cabang or tekpi.",
+            "category": "reminders",
+            "id": 8
+        },
+        {
+            "title": "Ironman",
+            "details": "He has JARVIS AI",
+            "category": "reminders",
+            "id": 9
+        },
+        {
+            "title": "Thor",
+            "details": "God of light with stainless steel hammer",
+            "category": "money",
+            "id": 10
+        },
+        {
+            "title": "Due of Internet",
+            "details": "Last month is May, 2022",
+            "category": "money",
+            "id": 11
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Vinit"
+        }
+    ]
+}
